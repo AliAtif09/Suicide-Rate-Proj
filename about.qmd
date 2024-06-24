@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Hello! My name is Ali Atif(email: halalman135@gmail.com), a rising sophmore in highschool. (gitub:https://github.com/AliAtif09)
+
+
+My project, is about the suicide rates in the USA, with the corresponding age groups.
+
+
+This project was created as a part of Kane’s Data Science Bootcamp. Here's the link to David akens webpage1! https://bootcamp.davidkane.info/
