@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Suicide Rates From 1985 to 2026 in America",
+    "title": "Suicide Rates From 1985 to 2016 in America",
     "section": "",
-    "text": "This project is about the suicide rates from 1985 to 2016 in the USA, and the ages in which commit suicide."
+    "text": "In 2016 alone, about 12000 people aged 35 to 54 committed suicide, and about 4500 people aged 14-24 did the same thing. This project is about the Suicide rates for different ages across America have been changing over the past decades. It looks at the amount of deaths different ages have from 1985 to 2016.\n\n\n\n\n\n\n\n\n\nYou can see how different ages have higher suicide rates than other, which have been increasing and decreasing over time. like ages 35-54 are the hghest and increasing, while ages 5-14 have been stagnant."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello! My name is Ali Atif(email: halalman135@gmail.com), a rising sophmore in highschool. (gitub:https://github.com/AliAtif09)\nMy project, is about the suicide rates in the USA, with the corresponding age groups.\nThis project was created as a part of Kane’s Data Science Bootcamp. Here’s the link to David akens webpage1! https://bootcamp.davidkane.info/"
+    "text": "Hello! My name is Ali Atif (email: halalman135@gmail.com), a rising sophmore in highschool. github\nMy project, is about the suicide rates in the USA, with the corresponding age groups.\nThis project was created as a part of Kane’s Data Science Bootcamp. Here’s the link to David akens webpage! David Kane Bootcamp"
   }
 ]
